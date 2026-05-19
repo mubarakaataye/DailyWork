@@ -9,4 +9,5 @@ class human{
     name;
     lastName;
     gender;
+    age;
 }
