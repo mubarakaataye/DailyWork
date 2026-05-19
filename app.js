@@ -16,7 +16,7 @@ class human{
     }
 
     sleep(){
-
+        console.log(this.name + "can sleep")
     }
 
     drink(){
