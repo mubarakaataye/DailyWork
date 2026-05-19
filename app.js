@@ -10,4 +10,9 @@ class human{
     lastName;
     gender;
     age;
+
+    walk(){
+
+    }
+    
 }
