@@ -7,4 +7,5 @@ class pen{
 
 class human{
     name;
+    lastName
 }
