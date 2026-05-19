@@ -20,6 +20,6 @@ class human{
     }
 
     drink(){
-
+        console.log(this.name + "can drink")
     }
 }
