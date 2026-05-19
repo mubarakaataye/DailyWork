@@ -4,3 +4,7 @@ class pen{
     qutor;
     tul;
 }
+
+class human{
+    
+}
