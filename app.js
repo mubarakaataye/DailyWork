@@ -1,4 +1,4 @@
 class pen{
     cover;
-    
+    color;
 }
