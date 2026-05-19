@@ -14,5 +14,8 @@ class human{
     walk(){
 
     }
-    
+
+    sleep(){
+        
+    }
 }
