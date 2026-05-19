@@ -16,6 +16,10 @@ class human{
     }
 
     sleep(){
+
+    }
+
+    drink(){
         
     }
 }
