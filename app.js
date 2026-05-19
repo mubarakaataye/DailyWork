@@ -12,7 +12,7 @@ class human{
     age;
 
     walk(){
-
+        console.log(this.name + "can walk")
     }
 
     sleep(){
@@ -20,6 +20,6 @@ class human{
     }
 
     drink(){
-        
+
     }
 }
