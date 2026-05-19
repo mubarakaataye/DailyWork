@@ -6,5 +6,5 @@ class pen{
 }
 
 class human{
-    
+    name;
 }
